@@ -1,4 +1,4 @@
-# Translator App
+# Language Translator App
 This is a translation application made with HTML, CSS, and Javascript. While this was a tutorial project, I added some extra features to make it more acessible, especially for those learning a new language!
 
 The application uses a free API and allows users to translate to a large selection of languages.
