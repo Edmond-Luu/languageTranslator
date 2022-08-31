@@ -1,4 +1,10 @@
 # Language Translator App
+
+Please click [here](https://edmond-luu.github.io/languageTranslator) or on the image below to see the app!
+
+[![image](https://user-images.githubusercontent.com/26613209/184457763-ffa9bf8f-7337-4cc6-bf80-92e103dd6f02.png)](https://edmond-luu.github.io/languageTranslator)
+
+
 This is a translation application made with HTML, CSS, and Javascript. While this was a tutorial project, I added some extra features to make it more acessible, especially for those learning a new language!
 
 The application uses a free API and allows users to translate to a large selection of languages.
