@@ -15,7 +15,7 @@ selectTag.forEach((tag, id) => {
         let selected;
         if (id == 0 && country_code == "en-GB") {
             selected = "selected";
-        } else if (id == 1 && country_code == "fa-IR") {
+        } else if (id == 1 && country_code == "es-ES") {
             selected = "selected";
         }
         let language = countries[country_code];
